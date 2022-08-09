@@ -8,6 +8,10 @@ I know it **slow** and some commands lack some features of actual command but an
 
  or if you're on linux then just use `$ chmod +x fileName.js` then `$ fileName.js`
 
+## Commands added
+- ls
+- cat
+
 ## Contribute
 > Feel free to contribute if *you're bored like me lol*!
 

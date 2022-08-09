@@ -13,10 +13,12 @@ const $ = async (dir) => {
     process.exit(0);
   } catch (e) {
     if (e.code == "ENOENT") {
-      console.log(`ls: cannot access '${dir}': no such file or directory`);
+      console.log(
+        `ls: cannot access '${process.argv[2]}': no such file or directory`
+      );
       process.exit(1);
     } else if (e.code == "EACCES") {
-      console.log(`ls: cannot access '${dir}': permission denied`);
+      console.log(`ls: cannot access '${process.argv[2]}': permission denied`);
       process.exit(1);
     }
   }
