@@ -7,7 +7,7 @@ I know it **slow** and some commands lack some features of actual command but an
 
 Bruh, just clone the repo or download a single file if you need of command then execute `$ node <fileName.js>`
 
-or if you're on linux then just use `$ chmod +x fileName.js` then `$ fileName.js`
+or if you're on linux then just use `$ chmod +x fileName.js` then `$ ./fileName.js <args>`
 
 ## Commands added
 
@@ -25,4 +25,5 @@ or if you're on linux then just use `$ chmod +x fileName.js` then `$ fileName.js
 
 > Feel free to contribute if _you're bored like me lol_!
 
+## Contact
 > Discord: Pratik#6965
