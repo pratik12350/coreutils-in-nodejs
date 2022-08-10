@@ -3,7 +3,6 @@
 const { readFileSync, existsSync, lstatSync } = require("fs");
 
 const $ = (file) => {
-
   try {
     if (existsSync(file) && lstatSync(file).isFile()) {
       const fileContent = readFileSync(file, "utf8");
