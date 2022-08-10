@@ -13,6 +13,7 @@ or if you're on linux then just use `$ chmod +x fileName.js` then `$ fileName.js
 
 - ls
 - cat
+- mkdir
 
 ## Commands need to add
 
