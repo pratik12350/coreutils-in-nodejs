@@ -1,6 +1,6 @@
 # Coreutils in nodejs
 
-Im trying to make most of the linux coreutils command in nodejs (which are possible). Currently i have no project and im bored so im make this thing 😂.
+Im trying to make most of the linux coreutils command in nodejs (which are possible). Currently i have no project and im bored so im made this thing 😂.
 I know it **slow** and some commands lack some features of actual command but anyways, who cares? This is just a timepass project.
 
 ## How to download?
